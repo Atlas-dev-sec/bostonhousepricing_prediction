@@ -19,4 +19,5 @@ python -m venv .venv
 to activate the enviroment: activate.bat
 to deactive : deactivate.bat
 to install libraries: pip install -r requirements.txt
+pip install scikit-learn (if sklearn module not found)
 ```
